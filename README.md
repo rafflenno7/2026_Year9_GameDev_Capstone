@@ -1,5 +1,10 @@
 # 2026_Year9_GameDev_Capstone
 
+4/5/2026
+- Onion Design
+- Four Corners
+- Game Design Elemeants
+
 27/04/2026
 (https://github.com/user-attachments/files/27108933/Reef_Rescue_Requirements.txt)
 GAMEDEV STUDIO — EXAMPLE GAME ANALYSIS
