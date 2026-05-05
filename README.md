@@ -1,4 +1,7 @@
 # 2026_Year9_GameDev_Capstone
+5/5/2026
+-Capstone booklet
+-elemeant checklist
 
 4/5/2026
 - Onion Design
