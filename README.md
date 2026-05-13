@@ -1,4 +1,14 @@
 # 2026_Year9_GameDev_Capstone
+
+13/5
+started working on the background and map where charachter is goin to be standing on
+
+12/5/2026
+finsished working on charachter animations 
+
+11/5/2026
+Started working on my game and changed a bit of what the ends going to look like
+
 5/5/2026
 -Capstone booklet
 -elemeant checklist
