@@ -21,4 +21,3 @@ Started working on my game and changed a bit of what the ends going to look like
 27/04/2026
 GAMEDEV STUDIO — EXAMPLE GAME ANALYSIS
 Requirements & Scope
-==================================================
