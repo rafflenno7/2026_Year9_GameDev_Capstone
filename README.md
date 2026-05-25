@@ -2,11 +2,13 @@
 
 13/5
 finished working on the and map where charachter is goin to be standing on starting to work on background
+i used [insert link] for the background
 
 12/5/2026
-finsished working on charachter animations and started working on maop
+finsished working on charachter animations and started working on map
+i used [insert link] for the charachter and animations
 
-11/5/2026
+1/5/2026
 Started working on my game and changed a bit of what the ends going to look like and charchter animations
 
 5/5/2026
