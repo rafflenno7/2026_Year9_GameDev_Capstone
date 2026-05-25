@@ -1,4 +1,9 @@
 # 2026_Year9_GameDev_Capstone
+Bibliography
+Tutorial: https://www.youtube.com/watch?v=venyIsxqtxY
+Enviromeant: https://theflavare.itch.io/forest-nature-fantasy-tileset
+Charachter And Animations:https//assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188
+
 
 13/5
 finished working on the and map where charachter is goin to be standing on starting to work on background
