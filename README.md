@@ -19,6 +19,10 @@ i used [insert link] for the charachter and animations
 1/5/2026
 Started working on my game and changed a bit of what the ends going to look like and charchter animations
 
+
+
+
+
 5/5/2026
 -Capstone booklet
 -elemeant checklist
